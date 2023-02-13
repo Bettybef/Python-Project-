@@ -1,3 +1,4 @@
+# I made a calculation to get a net_pay for 10 employees and put that in a table.
 from tabulate import tabulate
 
 table = [['Employee Name','Hours Worked','Pay Rate','Regular Pay','OT Pay','Gross Pay','Fed Tax','state Tax','FICA',
